@@ -8,9 +8,9 @@ Este repositorio es dedicado a la materia de Bases de Datos Relacionales imparti
 
 - [Tarea 1](/TAREA1/INVESTIGACION.md) 
 - [Tarea 2](/TAREA2/DIAGRAMA.md)
-- Tarea 3
-- Tarea 4
-- Tarea 5-6
-- Tarea 7
-- Tarea 8
-- Tarea 9
+- [Tarea 3](/TAREA3/MODELORELACIONAL.md)
+- [Tarea 4](/TAREA4/BASEDEDATOSd.md)
+- [Tarea 5-6](/TAREA5-6/FUNCIONES.md)
+- [Tarea 7](/TAREA7/REVISIONDEDATOS.md)
+- [Tarea 8](/TAREA8/VISTAS.md)
+- [Tarea 9](/TAREA9/PROCEDIMIENTOS.md)
