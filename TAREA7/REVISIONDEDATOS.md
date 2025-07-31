@@ -68,7 +68,7 @@ SELECT id_videojuego, total_ventas FROM (
 ORDER BY total_ventas DESC
 LIMIT 1;
 ```
-"" Hallazgos
+## Hallazgos
 - Se eliminaron registros inconsistentes que dificultaban el análisis estadístico.
 
 - Se reforzaron claves primarias con AUTO_INCREMENT para evitar duplicados.
